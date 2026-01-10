@@ -37,7 +37,7 @@ Welcome to my GitHub Page (I'm not a cat)!
 
 ### Machine Learning
 - PyTorch, TensorFlow, Keras
-- scikit-learn CGBoost, CatBoost, LightGBM
+- scikit-learn XGBoost, CatBoost, LightGBM
 - NumPy, Pandas, SciPy, MatPlotLib
 
 ### Computer Vision
