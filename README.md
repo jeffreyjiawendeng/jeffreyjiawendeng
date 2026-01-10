@@ -19,12 +19,6 @@ Welcome to my GitHub page (I'm not a cat)!
 - AI: Machine Learning, Computer Vision, Natural Language Processing, Robotics
 - Math: I am currently learning Category Theory to pursue a more principled mathematical framework for AI
 
-### Other
-- I'm a classically trained violinist, and I started playing at the age of 7.
-- I like Pokémon, and my favorite is Eevee! 
-- I also like cats.
-- I also also like games. 
-
 ---
 
 ## Technical Skills
@@ -57,3 +51,11 @@ Welcome to my GitHub page (I'm not a cat)!
 - Unity, Unreal Engine
 - Git, GitHub
 - LaTeX (Overleaf)
+
+---
+
+## Other
+- I'm a classically trained violinist, and I started playing at the age of 7.
+- I like Pokémon, and my favorite is Eevee! 
+- I also like cats.
+- I also also like games. 
