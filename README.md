@@ -11,9 +11,9 @@ Welcome to my GitHub page (I'm not a cat)!
 
 ### Goals
 - Honors Thesis: develop Vision-Language-Action (VLA) models for multimodal reasoning driven manipulation and robust real-world task execution
-- Academic: pursue a PhD in CS/AI focused on developing state-of-the-art, multi-modal models for embodied agents
-- Career: work in R&D on scalable, cutting edge, multi-modal AI systems for real-world applications
-- My ultimate goal is to build intelligent, general-purpose AI systems that advance us towards embodied AGI and deliver positive, real-world impact
+- Academic: pursue a PhD in CS/AI focused on developing state-of-the-art, multimodal models for embodied agents
+- Career: work in R&D on scalable, cutting-edge, multimodal AI systems for real-world applications
+- My ultimate goal is to build intelligent, general-purpose AI systems that advance us toward embodied AGI and deliver positive, real-world impact
 
 ### Interests
 - AI: Machine Learning, Computer Vision, Natural Language Processing, Robotics
