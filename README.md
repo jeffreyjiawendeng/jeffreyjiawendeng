@@ -54,7 +54,7 @@ Welcome to my GitHub page!
 
 ---
 
-## Other
+## Misc
 - I'm a classically trained violinist, and I started playing at the age of 7.
 - I like Pokémon, and my favorite is Eevee! 
 - I also like cats and video games.
