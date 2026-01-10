@@ -1,19 +1,19 @@
 # About Me
 Hi! I'm Jeff `:)`
 
-Welcome to my GitHub Page (I'm not a cat)!
+Welcome to my GitHub page (I'm not a cat)!
 
 ## General Information
 ### Academics
 - 3rd year CS + Math + Honors @ UMass Amherst
-- Undergradute Course Assistant (UCA): CS 383 Artificial Intelligence (Spring 2026)  
+- Undergraduate Course Assistant (UCA): CS 383 Artificial Intelligence (Spring 2026)  
 - Coursework: Artificial Intelligence, Machine Learning, Neural Networks, Natural Language Processing, Robotics
 
 ### Goals
-- Honors Thesis: develop Vision Language action (VLA) models for multimodal reasoning driven manipulationa and robust real-world task execution
-- Academic: pursue a PhD in CS/AI focuseed on developing state-of-the-art,multi-modal models for embodied agents
-- Career: work in R&D on scalable, cutting edge, multimodal AI systems for real world applications and settings
-- My ultimate goal is to build intelligent, general purpose, AI systems that advance us towards embodied AGI and deliver positive, real-world impact
+- Honors Thesis: develop Vision Language Action (VLA) models for multimodal reasoning driven manipulation and robust real-world task execution
+- Academic: pursue a PhD in CS/AI focused on developing state-of-the-art, multi-modal models for embodied agents
+- Career: work in R&D on scalable, cutting edge, multi-modal AI systems for real-world applications and settings
+- My ultimate goal is to build intelligent, general purpose AI systems that advance us towards embodied AGI and deliver positive, real-world impact
 
 ### Interests
 - AI: Machine Learning, Computer Vision, Natural Language Processing, Robotics
@@ -21,7 +21,7 @@ Welcome to my GitHub Page (I'm not a cat)!
 
 ### Other
 - I'm a classically trained violinist, and I started playing at the age of 7.
-- I like Pokemon, and my favorite is Eevee! 
+- I like Pokémon, and my favorite is Eevee! 
 - I also like cats.
 - I also also like games. 
 
@@ -33,24 +33,24 @@ Welcome to my GitHub Page (I'm not a cat)!
 - Python, Java, C#
 - C, C++
 - JavaScript, TypeScript, HTML5, CSS3
-- SQL (MySQL, PostgreSQL), NoSQL(MongoDB)
+- SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
 
 ### Machine Learning
 - PyTorch, TensorFlow, Keras
-- scikit-learn XGBoost, CatBoost, LightGBM
-- NumPy, Pandas, SciPy, MatPlotLib
+- scikit-learn, XGBoost, CatBoost, LightGBM
+- NumPy, Pandas, SciPy, Matplotlib
 
 ### Computer Vision
 - OpenCV, Pillow (PIL)
 - torchvision, MMCV
 
 ### Natural Language Processing
-- HuggingFace Transformers/Datasets/Tokenizers
+- Hugging Face Transformers/Datasets/Tokenizers
 - spaCy, NLTK
 
 ### Robotics & Simulation
 - MuJoCo, Gazebo, Isaac Sim
-- Gymnasium, Baselines3
+- Gymnasium, Stable-Baselines3
 
 ### Other
 - Node.js, Next.js, React
