@@ -1,7 +1,7 @@
 # About Me
 Hi! I'm Jeff `:)`
 
-Welcome to my GitHub page (I'm not a cat)!
+Welcome to my GitHub page!
 
 ## General Information
 ### Academics
