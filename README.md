@@ -6,7 +6,7 @@ Welcome to my GitHub page!
 ## General Information
 ### Academics
 - 4th-year CS + Math + Honors @ UMass Amherst
-- Undergraduate Course Assistant (UCA): CS 383 - Artificial Intelligence (Spring 2026), CS 485 - Natural Language Processing (Fall 2026)  
+- Undergraduate Course Assistant (UCA): CS 383 - Artificial Intelligence (Spring 2026), CS 485 - Natural Language Processing (Fall 2026), CS 589 - Machine Learning (Fall 2026)  
 - Graduate Coursework: Artificial Intelligence, Machine Learning, Reinforcement Learning, Neural Networks, Generative Artificial Intelligence, Game Programming, Mathematical Machine Learning, Scientific Computing, Applied Linear Algebra
 - Undergraduate Coursework: Artificial Intelligence (Course Assistant), Natural Language Processing (Course Assistant), Robotics, Web Programming, Operating Systems
 
